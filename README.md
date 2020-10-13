@@ -11,14 +11,15 @@
 - an ambitious person who aims at transforming the world by solving even the tiniest of problems that people face.
 - an entrepreneur in making. 
 
-If you're fascinated with any of the stuff here, or you wish to collaborate in any form, or want to know more about me, 
+If you're fascinated with any of the stuff here, or you wish to collaborate in any form, or want to know more about me,
+
 you can reach me out on:
 
-<img align="left" src="assets/icons%20with%20padding/linkedin.png" alt="Linkedin" width="24">[Linkedin](https://www.linkedin.com/in/sudoabhi/ "Abhishek Kumar")
+<a href="https://www.linkedin.com/in/sudoabhi/"><img align="left" src="assets/icons%20with%20padding/linkedin.png" alt="Linkedin" width="24"></a>[Linkedin](https://www.linkedin.com/in/sudoabhi/ "Abhishek Kumar")
 
-<img align="left" src="assets/icons%20with%20padding/email.png" width="20">[Email](mailto:abhishek2606@hotmail.com)
+<a href="mailto:abhishek2606@hotmail.com"><img align="left" src="assets/icons%20with%20padding/email.png" width="20"></a>[Email](mailto:abhishek2606@hotmail.com)
 
-<img align="left" src="assets/icons%20with%20padding/facebook.png">(https://www.facebook.com/sudoabHi/ "Abhishek Kumar Singh")
+<a href="https://www.facebook.com/sudoabHi/"><img align="left" src="assets/icons%20with%20padding/facebook.png"></a>[Facebook](https://www.facebook.com/sudoabHi/ "Abhishek Kumar Singh")
 
 I love making new friends. 😄
 @icn-camera
