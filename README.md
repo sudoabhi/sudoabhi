@@ -14,9 +14,9 @@
 If you're fascinated with any of the stuff here, or you wish to collaborate in any form, or want to know more about me, 
 you can reach me out on:
 
-<img src="assets/icons%20with%20padding/linkedin.png" alt="Linkedin" width="32">[Linkedin](https://www.linkedin.com/in/sudoabhi/ "Abhishek Kumar")
+<img src="assets/icons%20with%20padding/linkedin.png" alt="Linkedin" width="24">[Linkedin](https://www.linkedin.com/in/sudoabhi/ "Abhishek Kumar")
 
-<img src="assets/icons%20with%20padding/email.png" width="32">[Email](mailto:abhishek2606@hotmail.com)
+<img src="assets/icons%20with%20padding/email.png" width="20">[Email](mailto:abhishek2606@hotmail.com)
 
 ![](assets/icons%20with%20padding/facebook.png)[Facebook](https://www.facebook.com/sudoabHi/ "Abhishek Kumar Singh")
 
