@@ -11,9 +11,11 @@
 - an ambitious person who aims at transforming the world by solving even the tiniest of problems that people face.
 - an entrepreneur in making. 
 
-If you're fascinated with any of the stuff here, or you wish to collaborate in any form, or want to know more about me
+If you're fascinated with any of the stuff here, or you wish to collaborate in any form, or want to know more about me, 
 you can reach me out on:
+
 [Linkedin](https://www.linkedin.com/in/sudoabhi/ "Abhishek Kumar")      [Email](mailto:abhishek2606@hotmail.com)      [Facebook](https://www.facebook.com/sudoabHi/ "Abhishek Kumar Singh")
+
 I love making new friends. 😄
 
 Fun fact: I am a Marvel fan too, just like you. :wink: You can ping me anytime to talk about it too. 
