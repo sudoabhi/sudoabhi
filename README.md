@@ -19,6 +19,7 @@ you can reach me out on:
 
 <a href="https://www.linkedin.com/in/sudoabhi/"><img align="left" src="assets/linkedin icon.png" alt="Linkedin" height=24></a>
 <a href="https://www.facebook.com/sudoabHi/"><img align="left" src="assets/fb icon.png" height="24"></a> 
+<a href="https://www.twitter.com/sudoabhi/"><img align="left" src="assets/twitter icon.png" height="24"></a> 
 
 <!-- [Linkedin](https://www.linkedin.com/in/sudoabhi/ "Abhishek Kumar") &nbsp; [Email](mailto:abhishek2606@hotmail.com) &nbsp; [Facebook](https://www.facebook.com/sudoabHi/ "Abhishek Kumar Singh")-->
 
