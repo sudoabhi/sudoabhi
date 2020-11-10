@@ -15,7 +15,8 @@ If you're fascinated with any of the stuff here, or you wish to collaborate in a
 
 you can reach me out on:
 
-<a href="mailto:abhishek2606@hotmail.com"><img align="left" src="assets/icons%20with%20padding/email.png" width="20"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/sudoabhi/"><img align="left" src="assets/icons%20with%20padding/linkedin.png" alt="Linkedin" width="24"></a> &#09; &#09; &#09; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <a href="https://www.facebook.com/sudoabHi/"><img align="left" src="assets/icons%20with%20padding/facebook.png" width="24"></a> 
+<a href="mailto:abhishek2606@hotmail.com"><img align="left" src="assets/icons%20with%20padding/email.png" width="20"></a>
+<a href="https://www.linkedin.com/in/sudoabhi/"><img align="left" src="assets/linkedin icon.png" alt="Linkedin"></a> &#09; &#09; &#09; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <a href="https://www.facebook.com/sudoabHi/"><img align="left" src="assets/icons%20with%20padding/facebook.png" width="24"></a> 
 
 <!-- [Linkedin](https://www.linkedin.com/in/sudoabhi/ "Abhishek Kumar") &nbsp; [Email](mailto:abhishek2606@hotmail.com) &nbsp; [Facebook](https://www.facebook.com/sudoabHi/ "Abhishek Kumar Singh")-->
 
