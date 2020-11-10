@@ -17,19 +17,19 @@ you can reach me out on:
 
 <!--<a href="mailto:abhishek2606@hotmail.com"><img align="left" src="assets/icons%20with%20padding/email.png" width="20"></a> -->
 
-<a href="https://www.linkedin.com/in/sudoabhi/"><img align="left" src="assets/linkedin icon.png" alt="Linkedin" height=24></a>
-<a href="https://www.facebook.com/sudoabHi/"><img align="left" src="assets/fb icon.png" height="24"></a> 
-<a href="https://www.twitter.com/sudoabhi/"><img align="left" src="assets/twitter icon.png" height="24"></a> 
-
+<a href="https://www.linkedin.com/in/sudoabhi/"><img align="left" src="assets/linkedin icon.png" alt="Linkedin" height=24, target="_blank"></a>
+<a href="https://www.facebook.com/sudoabHi/"><img align="left" src="assets/fb icon.png" height="24", target="_blank"></a> 
+<a href="https://www.twitter.com/sudoabhi/"><img align="left" src="assets/twitter icon.png" height="24", target="_blank"></a>
+  
 <!-- [Linkedin](https://www.linkedin.com/in/sudoabhi/ "Abhishek Kumar") &nbsp; [Email](mailto:abhishek2606@hotmail.com) &nbsp; [Facebook](https://www.facebook.com/sudoabHi/ "Abhishek Kumar Singh")-->
-or [Email](mailto:abhishek2606@hotmail.com,abhishek626k@gmail.com) me.
+  or [Email](mailto:abhishek2606@hotmail.com) me.
 
 
 
 
 I love making new friends. 😄
 
-Fun fact: I am a Marvel fan too, just like you. :wink: You can ping me anytime to talk about it too. 
+Fun fact: I am a Marvel fan too, just like you. :wink: You can ping me anytime to talk about it. 
 
 <!--
 **sudoabhi/sudoabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
