@@ -1,7 +1,7 @@
 ### Hi there geeks 👋
 
 #### I am Abhishek, 
-- a 4th year IT undergraduate at Indian Institute of Information and Technology, Gwalior.
+- a 5th year IT undergraduate at Indian Institute of Information and Technology, Gwalior.
 - skilled in Java, C++, R, App Development.
 - learning newer tools and tech as much as I can
 - good at developing native android apps and enthusiastically learning newer tools to improve my proficiency.
